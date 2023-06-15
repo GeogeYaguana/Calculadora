@@ -73,6 +73,8 @@ div #nr{
 }
 #btn{
     font-size: 75%;
+    width: 10rem;
+    height: 3rem;
 }
 footer {
     padding: 0.5rem;
